@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: " https://a2f66.netcup.net:8443/modules/git/public/web-hook.php?uuid=54af1c36-d49d-4121-375c-5f4b5c9ca22f "
+webhook_url: ''
 sections:
 - type: heading
   label: Content
