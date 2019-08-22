@@ -13,8 +13,8 @@ show_news: false
 partners: []
 show_staff: true
 menu:
-  footer:
-    weight: 4
+  navigation:
+    weight: 6
     title: ''
 
 ---
