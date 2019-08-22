@@ -15,7 +15,7 @@ show_staff: true
 menu:
   navigation:
     weight: 6
-    title: ''
+    title: test
 
 ---
 fadfdsfsdfsdfsd
